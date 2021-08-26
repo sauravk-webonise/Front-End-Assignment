@@ -1,0 +1,139 @@
+body{
+    margin: auto;
+	
+/*	background-color: darkgray;*/
+/*	margin: auto;*/
+	
+}
+
+.header{	
+	background-position: center;
+	text-align: left;
+	padding: 40px 0 20px 40px;
+	height: 100px;
+}
+
+h1{
+	color: black;
+}
+.menu{
+	background-color: rgb(70, 76, 167);
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-top: 0px;
+	font-size: 15px;
+	color: rgb(255, 255, 255);
+	
+}
+.container{
+	width: 1250px;
+	height: 750px;
+	
+	margin: 0 auto;
+
+}
+
+
+.menu a {
+	/* color: light rgb(58, 56, 177); */
+	
+	background: #3355aa;
+	font-size: 15px;
+	font-family: "Georgia";
+
+	height: 40px;
+}
+
+.menu a:hover{
+	
+	color: white;;
+}
+
+aside {
+
+	 float: left;
+	 
+	 padding: 35px 0 0 35px;
+	
+}
+.main-section{
+	background-color: rgb(255, 255, 255);
+	padding-top: 35px;
+	padding-left: 10px;
+	height: 450px;
+	width: auto;
+}
+
+#section-1{
+	background-color: rgb(255, 255, 255);
+	width: 400px;
+	height: 350px;
+
+	color: #444444;
+	font-family: "Georgia";
+	line-height: 18px;
+}
+
+#section-2{
+	position: absolute;
+	width: 235px;
+  height: 100px;
+		top: 200px;
+		left: 650px;
+	font-size: 14px;
+}
+#section-3{
+	position: absolute;
+	width: 235px;
+  height: 100px;
+		top: 200px;
+		left: 950px;
+	font-size: 14px;
+}
+#hrline{
+	color: rgb(245, 211, 21);
+	width: auto;
+	
+}
+#lines{
+	color: rgb(43, 66, 197);
+}
+
+#author{
+	font-size: 10px;
+}
+
+
+.image-1{
+	/* margin-top: 10px	; */
+	height: 270px;
+	width: 360px;
+	padding-top: 10px;
+	
+	margin: 0 0 0 20px;
+}
+
+#para1{
+	text-align: center;
+}
+
+#search{
+	float: right;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
